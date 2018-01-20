@@ -1,0 +1,14 @@
+.\obj\dispose.o: ..\App\dispose.c
+.\obj\dispose.o: ..\Bsp\uart.h
+.\obj\dispose.o: ..\FWLIB\include\lpc17xx_pinsel.h
+.\obj\dispose.o: ..\cmsis\LPC17xx.h
+.\obj\dispose.o: c:\Keil\ARM\RV31\INC\core_cm3.h
+.\obj\dispose.o: c:\Keil\ARM\RV31\INC\stdint.h
+.\obj\dispose.o: ..\cmsis\system_LPC17xx.h
+.\obj\dispose.o: ..\FWLIB\include\lpc_types.h
+.\obj\dispose.o: ..\FWLIB\include\lpc17xx_uart.h
+.\obj\dispose.o: ..\App\dispose.h
+.\obj\dispose.o: ..\Bsp\hidio.h
+.\obj\dispose.o: ..\USB\include\usbdesc.h
+.\obj\dispose.o: ..\USB\include\type.h
+.\obj\dispose.o: ..\USB\include\usbcfg.h

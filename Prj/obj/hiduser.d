@@ -1,0 +1,17 @@
+.\obj\hiduser.o: ..\USB\source\hiduser.c
+.\obj\hiduser.o: ..\USB\include\type.h
+.\obj\hiduser.o: ..\USB\include\usb.h
+.\obj\hiduser.o: ..\USB\include\hid.h
+.\obj\hiduser.o: ..\USB\include\usbcfg.h
+.\obj\hiduser.o: ..\USB\include\usbcore.h
+.\obj\hiduser.o: ..\USB\include\hiduser.h
+.\obj\hiduser.o: ..\Bsp\hidio.h
+.\obj\hiduser.o: c:\Keil\ARM\RV31\INC\stdint.h
+.\obj\hiduser.o: ..\USB\include\usbdesc.h
+.\obj\hiduser.o: ..\Bsp\uart.h
+.\obj\hiduser.o: ..\FWLIB\include\lpc17xx_pinsel.h
+.\obj\hiduser.o: ..\cmsis\LPC17xx.h
+.\obj\hiduser.o: c:\Keil\ARM\RV31\INC\core_cm3.h
+.\obj\hiduser.o: ..\cmsis\system_LPC17xx.h
+.\obj\hiduser.o: ..\FWLIB\include\lpc_types.h
+.\obj\hiduser.o: ..\FWLIB\include\lpc17xx_uart.h

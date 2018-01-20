@@ -1,0 +1,10 @@
+.\obj\spi.o: ..\Bsp\spi.c
+.\obj\spi.o: ..\Bsp\spi.h
+.\obj\spi.o: ..\FWLIB\include\lpc17xx_ssp.h
+.\obj\spi.o: ..\cmsis\LPC17xx.h
+.\obj\spi.o: c:\Keil\ARM\RV31\INC\core_cm3.h
+.\obj\spi.o: c:\Keil\ARM\RV31\INC\stdint.h
+.\obj\spi.o: ..\cmsis\system_LPC17xx.h
+.\obj\spi.o: ..\FWLIB\include\lpc_types.h
+.\obj\spi.o: ..\FWLIB\include\lpc17xx_pinsel.h
+.\obj\spi.o: ..\FWLIB\include\lpc17xx_gpio.h

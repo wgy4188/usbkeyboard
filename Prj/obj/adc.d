@@ -1,0 +1,9 @@
+.\obj\adc.o: ..\Bsp\adc.c
+.\obj\adc.o: ..\Bsp\adc.h
+.\obj\adc.o: ..\FWLIB\include\lpc17xx_adc.h
+.\obj\adc.o: ..\cmsis\LPC17xx.h
+.\obj\adc.o: c:\Keil\ARM\RV31\INC\core_cm3.h
+.\obj\adc.o: c:\Keil\ARM\RV31\INC\stdint.h
+.\obj\adc.o: ..\cmsis\system_LPC17xx.h
+.\obj\adc.o: ..\FWLIB\include\lpc_types.h
+.\obj\adc.o: ..\FWLIB\include\lpc17xx_pinsel.h

@@ -1,0 +1,1 @@
+-c --cpu Cortex-M3 -g -O0 --apcs=interwork -I..\USB\include -I..\FWLIB\include -I..\cmsis -I..\Bsp -I..\App -I "c:\Keil\ARM\INC" -I "c:\Keil\ARM\INC\NXP\LPC17xx" -o ".\obj\key.o" --omf_browse ".\obj\key.crf" --depend ".\obj\key.d" "..\App\key.c"

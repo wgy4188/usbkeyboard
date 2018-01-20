@@ -1,0 +1,10 @@
+.\obj\hidio.o: ..\Bsp\hidio.c
+.\obj\hidio.o: ..\Bsp\hidio.h
+.\obj\hidio.o: c:\Keil\ARM\RV31\INC\stdint.h
+.\obj\hidio.o: ..\USB\include\usbdesc.h
+.\obj\hidio.o: ..\USB\include\type.h
+.\obj\hidio.o: ..\USB\include\usbcfg.h
+.\obj\hidio.o: ..\USB\include\usb.h
+.\obj\hidio.o: ..\USB\include\usbcore.h
+.\obj\hidio.o: ..\USB\include\usbhw.h
+.\obj\hidio.o: ..\USB\include\hiduser.h

@@ -1,0 +1,10 @@
+.\obj\debug_frmwrk.o: ..\FWLIB\source\debug_frmwrk.c
+.\obj\debug_frmwrk.o: ..\FWLIB\include\debug_frmwrk.h
+.\obj\debug_frmwrk.o: ..\FWLIB\include\lpc17xx_uart.h
+.\obj\debug_frmwrk.o: ..\cmsis\LPC17xx.h
+.\obj\debug_frmwrk.o: c:\Keil\ARM\RV31\INC\core_cm3.h
+.\obj\debug_frmwrk.o: c:\Keil\ARM\RV31\INC\stdint.h
+.\obj\debug_frmwrk.o: ..\cmsis\system_LPC17xx.h
+.\obj\debug_frmwrk.o: ..\FWLIB\include\lpc_types.h
+.\obj\debug_frmwrk.o: ..\FWLIB\include\lpc17xx_pinsel.h
+.\obj\debug_frmwrk.o: ..\FWLIB\include\lpc17xx_libcfg_default.h
